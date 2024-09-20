@@ -21,7 +21,7 @@ Repository contains a qr code when scanned redirects to frontendmentor.io
 
 ### Screenshot
 
-![]![alt text](image.png)
+![alt text](image.png)
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
 
