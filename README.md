@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges helps me improve my coding skills by building realistic projects!
 
 ## Table of contents
 
@@ -13,10 +13,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
+- [Final Words](#final-words)
 
 ## Overview
 
-Repository contains a qr code when scanned redirects to frontendmentor.io
+Repository contains a qr code, and when scanned it redirects to [frontendmentor website](www.frontendmentor.io)
 
 ### Screenshot
 
@@ -32,11 +33,13 @@ Repository contains a qr code when scanned redirects to frontendmentor.io
 
 ### What I learned
 
-During this project, I deepened my understanding of using Flexbox for layout structuring. Flexbox allowed me to easily center elements within the webpage by leveraging properties like justify-content and align-items. This made aligning content more efficient compared to older techniques like using margins or positioning. With Flexbox, I could quickly align my elements horizontally and vertically, creating a more responsive and visually balanced design.
+During this project, I deepened my understanding of using **Flexbox** for layout structuring. Flexbox allowed me to easily center elements within the webpage by leveraging properties like justify-content and align-items. This made aligning content more efficient compared to older techniques like using margins or positioning. With Flexbox, I could quickly align my elements horizontally and vertically, creating a more responsive and visually balanced design.
 
-Additionally, I gained experience working with IDs and Class selectors in CSS. I learned how to target specific elements using their unique ID attributes, like #title and #paragraph, to apply distinct styles for text formatting and spacing. This was useful in cases where I needed to apply styles to one particular element, while class selectors were effective for reusable styles across multiple elements.
+Additionally, I gained experience working with **IDs and Class selectors** in CSS. I learned how to target specific elements using their unique ID attributes, like _#title_ and _#paragraph_, to apply distinct styles for text formatting and spacing. This was useful in the case where I needed to apply styles to one particular element, while class selectors were effective for reusable styles across multiple elements, even though i didnt use class selectors in this particular project, but i am happy that i now understand these.
 
 These concepts helped streamline my approach to both layout and styling, making the overall design process more intuitive and structured.
+
+I also learned to write **Markdown syntax** and understood the difference between **WYSIWYG** (What You See Is What You Get) and Markdown’s more manual, code-based approach to formatting. This project marks my first experience creating a **README** file, which has been both educational and rewarding!
 
 ```html
 <div>
@@ -74,33 +77,24 @@ body {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+Code will be reviewed to make sure it it absolutely responsive across multiple devices.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Flexbox](https://www.youtube.com/watch?v=K74l26pE4YA) - This short youtube video helped me to understand how to use Flexbox.
+- [markdownguide](https://www.markdownguide.org/) - This article was incredibly helpful in teaching me how to write Markdown syntax. I quickly applied what I learned to create this README file. And yes, this is the very first README file I've ever written! :)
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Frontend Mentor - [@Preshgit](https://www.frontendmentor.io/profile/Preshgit)
+- X - [@presh_ot](https://x.com/presh_OT)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+A huge thank you to my front-end senior colleague - [@kinghorey](https://github.com/KingHorey), whose guidance and support were instrumental in helping me navigate the intricacies of Flexbox and CSS. Thank You Ore!
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+## Final Words
+
+Hi Reader 👋, I hope you enjoyed the read!
